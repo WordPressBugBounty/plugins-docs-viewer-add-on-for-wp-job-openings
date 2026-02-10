@@ -2,7 +2,7 @@
 Contributors: awsmin
 Tags: jobs plugin, wp job openings, resume viewer, docs viewer, cv viewer, job listing, job openings, job board, careers page, jobs page, jobs
 Requires at least: 4.0
-Tested up to: 6.5
+Tested up to: 4.9.8
 Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -38,6 +38,9 @@ Requires:
 1. Application Detail Page With The Docs Viewer Resume Preview
 
 == Changelog ==
+
+= V 1.0.1 - 2026-02-09 =
+* Minor bug fixes and code improvements.
 
 = V 1.0 - 2018-08-29 =
 * Initial Release
